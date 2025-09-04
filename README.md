@@ -67,3 +67,4 @@ Gain the ultimate edge in **Arena Breakout**. Track enemies, improve aim, and op
 | **Stream-safe?**                 | Yes, works with OBS & Discord.                |
 | **Support?**                     | Access via our loader community.             |
 | **Can I modify visuals?**        | Yes, Chams, transparency, and overlays are supported. |
+ 
